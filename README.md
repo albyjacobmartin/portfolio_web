@@ -1,3 +1,7 @@
-Not a important commit, I was checking a problem i was having with VSCode, Git, and Github.
+Until now:
 
-Conclusion : I think the issue is resolved, lets continue working.
+I have a chat instance with GPT, which i am using to build this website.
+
+You can check phase_0.md to know the progress until now.
+
+As i progress, i will make more markdown files which will give more context on how I interacted with the LLM.
